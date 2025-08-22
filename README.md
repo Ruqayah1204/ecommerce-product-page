@@ -34,13 +34,17 @@ This project helped me practice **state management**, **component communication*
 
 ### Screenshot
 
-![Desktop Design](./src/assets/design/desktop-design.png) | ![Mobile Design](./src/assets/design/mobile-design.png)
+| 🖥️ Desktop View                  | 📱 Mobile View                 |
+| -------------------------------- | ------------------------------ |
+| ![Desktop](./src/assets/design/desktop-design.png) | ![Mobile](./src/assets/design/mobile-design.png) |
+| ![Desktop](./src/assets/design/active-state-filled-basket.png) | ![Mobile](./src/assets/design/mobile-design-basket-filled.png) |
+| ![Desktop](./src/assets/design/active-lightbox.png) | ![Mobile](./src/assets/design/mobile-menu.png) | 
 
 
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Ruqayah1204/ecommerce-product-page)
-- Live Site URL: [Ecommerce website url](https://your-live-site-url.com)
+- Live Site URL: [Ecommerce website url](https://loyal-oven.pipeops.net/)
 
 ---
 
